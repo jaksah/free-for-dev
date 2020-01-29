@@ -686,6 +686,7 @@ Table of Contents
    * [planitpoker.com](https://www.planitpoker.com/) — Free online planning poker (estimation tool)
    * [senseitool.com](https://www.senseitool.com/) — An agile retrospective tool - Free.
    * [SpeedBoard](https://speedboard.app) - Board for Agile and Scrum retrospectives - Free.
+   * [swimlanes.io](https://swimlanes.io/) - Online tool for creating sequence diagrams - Free.
    * [Tadum](https://tadum.app) - Meeting agenda and minutes app designed for recurring meetings, free for teams up to 10
    * [taiga.io](https://taiga.io/) — Project management platform for startups and agile developers, free for Open Source
    * [targetprocess.com](https://www.targetprocess.com/) — Visual project management, from Kanban and Scrum to almost any operational process. Free for unlimited users, up to 1,000 data entities {[more details](https://www.targetprocess.com/pricing/)}
